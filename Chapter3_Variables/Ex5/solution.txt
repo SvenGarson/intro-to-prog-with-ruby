@@ -1,0 +1,18 @@
+-- comments on snippet_1 --
+
+The variable x is declared before the new block created by
+passing a block of code to the times function. So x is
+visible everywhere in this case.
+  - output: 3
+  - error:  none
+
+-- comments on snippet_2 --
+
+The variable y is declared before the new block created by
+passing a block of code to the times function, but x is
+declared inside this new block.
+So x is not visible to the puts functions on the last
+line, since it out of scope, and thus induces an error.
+  - output: none
+  - error:  'undefined local variable or method `x' for main:Object (NameError)''
+

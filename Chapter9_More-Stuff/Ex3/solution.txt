@@ -1,0 +1,3 @@
+Exception handling is the way to catch errors in ruby,
+and gracefully handle the problem instead of the
+program stoping execution, i.e crashing.

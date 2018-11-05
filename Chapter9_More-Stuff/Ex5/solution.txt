@@ -1,0 +1,11 @@
+-- comments on snippet --
+
+The error:
+
+'Ex_5/snippet.rb:1:in `execute': wrong number of arguments (given 0, expected 1) (ArgumentError)'
+
+occurs because the method 'execute' does not take a block
+of code as parameter anymore, after the method definition
+was switched from 'def execute(&block)' to 'def execute(block)'.
+
+This can be fixed by putting an '&' in front of the parameter.

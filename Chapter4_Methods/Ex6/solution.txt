@@ -1,0 +1,5 @@
+The error message indicates that the wrong
+number of arguments is passed to a method 
+called 'calculate_product'.
+Specifically, of the two arguments required,
+only one has been passed to the method.

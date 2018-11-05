@@ -1,0 +1,4 @@
+-- comments on snippet --
+
+The value of the name can be accessed with a symbol
+and bracket notation => 'person[:name]'

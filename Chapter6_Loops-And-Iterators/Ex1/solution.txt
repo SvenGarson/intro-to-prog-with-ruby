@@ -1,0 +1,5 @@
+-- comments on snippet --
+
+Apparently the each method returns the original
+array the method is called on after it finished
+executing once on every entry in the array, that is.

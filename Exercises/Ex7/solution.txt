@@ -1,0 +1,7 @@
+An Array holds data sequentially. The objects
+stored can be retreived by their index in the
+array starting with '0'.
+
+A Hash holds data in key/value pairs. The objects
+stored can be retreived by their key, which must
+be of the right type and value. 

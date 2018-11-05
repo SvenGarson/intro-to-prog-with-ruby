@@ -1,0 +1,10 @@
+-- comments on snippet --
+
+The problem is that in order to address 
+a certain object of an array by using bracket
+notation, an integer has to be passed between the
+brackets, but 'Margaret' is a string.
+
+It can simply be fixed by using '3' as the index
+since that's the index of the string 'Margaret'
+in the array.

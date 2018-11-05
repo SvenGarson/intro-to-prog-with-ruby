@@ -1,0 +1,23 @@
+-- comments on snippet_1 --
+
+Comparing two different types of objects always
+results in 'false'. So the code on the right of
+the colon of the ternary operator is executed.
+So the program executes 'puts("FALSE")' and prints
+'FALSE'.
+
+-- comments on snippet_2 --
+
+Both sides of the equality operator result 
+in the number '3', and '3 == 3' results in true,
+so the program executes the first 'puts' and
+prints 'Did you get it right?'.
+
+-- comments on snippet_3 --
+
+Both the second: '(x + 1) >= (y)' and the
+third: '(y + 1) == x' test would evaluate to true.
+But since the if statement only executes the code 
+of the first check that evaluates to true and then
+proceeds to execute the code after 'end', the program
+only prints 'Alright now!'.'

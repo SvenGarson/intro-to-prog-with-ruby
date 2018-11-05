@@ -1,0 +1,13 @@
+-- comments on snippet --
+
+'my_hash' has a symbol as key that maps to
+the string "some value" and 'my_hash2' uses
+the string of the 'x' variable as key that
+maps to the string "some value".
+
+In order to retreive the value from 'my_hash',
+the symbol has to be used.
+In order to retreive the value from 'my_hash2',
+the string has to be used.
+
+which the test code in snippet.rb confirms.

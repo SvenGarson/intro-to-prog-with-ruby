@@ -1,0 +1,8 @@
+-- comments to snippet --
+
+It will print: 'These hashes are the same!'
+
+The key and value types, as well as their values are exactly
+the same in both hashes, but some entries are assigned in a
+different order as well as both, the old and new assignment
+methods are used.

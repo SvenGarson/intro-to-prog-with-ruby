@@ -1,0 +1,8 @@
+-- comments on snippet --
+
+1) The method will return before anything is
+printed, because the return keyword precedes
+the invocation of 'puts'.
+
+2) The method returns nil because the return
+keyword does not explicitely return anything.

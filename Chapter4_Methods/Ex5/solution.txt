@@ -1,0 +1,10 @@
+-- comments on snippet --
+
+1) After the return keyword is commented out,
+the method will print the parameter concatenated
+with "!!!!", which in this case results in the output
+'Yippeee!!!!'.
+
+2) The method still returns nil, since the method
+returns the return value of the 'puts' method, which
+in turn always returns nil.

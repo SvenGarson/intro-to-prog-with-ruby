@@ -1,0 +1,16 @@
+1. 'ruby-doc.org'
+
+This is the only one I used to lookup methods for
+objects. The structure of the website allowed me
+to easily find what a method does, what it returns
+and whether it mutates an object or not.
+
+It also allowed me to look for alternative methods
+to solve problems, since everything is listed without
+obfuscation.
+
+2. 'stackoverflow.com'
+
+This website always helps me to get rid of any doubts
+about a particular behaviour of a language and gives
+great incentives to solve problems in a different manner.

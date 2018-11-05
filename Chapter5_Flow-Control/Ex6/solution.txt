@@ -1,0 +1,10 @@
+-- comments on snippet --
+
+The interpreter throws the error: 
+'syntax error, unexpected end-of-input, expecting keyword_end'
+because the 'end' keyword is releated to the if statement, which
+in turn leaves the method definition incomplete since there is
+no 'end' keyword to conclude the method.
+
+This can be fixed by including another 'end' keyword just
+before the other 'end' already present in the code.

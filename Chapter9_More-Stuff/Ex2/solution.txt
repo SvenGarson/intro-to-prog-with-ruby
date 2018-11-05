@@ -1,0 +1,6 @@
+-- comments on snippet --
+
+The programm will not print anything since the block
+is never called, i.e executed in the 'execute' method.
+
+The method returns: '#<Proc:0x007f7ce0@Ex_2/snippet.rb:5>'

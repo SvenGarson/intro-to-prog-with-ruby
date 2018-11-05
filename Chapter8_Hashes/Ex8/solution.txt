@@ -1,0 +1,12 @@
+-- comments on snippet --
+
+They 'keys' method is a hash method that returns
+an array of all the keys in the hash.
+
+There is no 'keys' method for ruby arrays, which
+is the reason for the error:
+
+'undefined method `keys' for []:Array (NoMethodError)'
+
+Answer: (B)
+  ==> There is no method called 'keys' for Array objects
